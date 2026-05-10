@@ -29,3 +29,8 @@
 ## 📈 GitHub Journey
 
 Starting fresh and building step by step 🚀
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashcodesit&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashcodesit&layout=compact)
