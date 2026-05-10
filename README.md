@@ -1,37 +1,47 @@
-# Hi, I'm Yash 👋
+<h1 align="center">Hi 👋, I'm Yash</h1>
 
-🎓 B.Tech IT Student  
-💻 Learning MERN Stack & DSA  
-🚀 Building projects consistently  
-🌱 Currently learning C++, JavaScript and Web Development  
+<h3 align="center">
+B.Tech IT Student • Learning MERN Stack & DSA • Building Consistently 🚀
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **C++, JavaScript, MERN Stack**
+- 💻 Interested in **Full Stack Development**
+- 📚 Improving problem-solving and DSA daily
+- 🚀 Building projects step by step
 
 ---
 
 ## 🛠 Tech Stack
 
-- C++
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-## 📚 Current Goals
+## 📌 Current Focus
 
-- Learn MERN Stack
-- Improve DSA
-- Build Real Projects
-- Stay Consistent
+- MERN Stack Development
+- Data Structures & Algorithms
+- Real-world Projects
+- Open Source Journey
 
 ---
 
-## 📈 GitHub Journey
+## 🌐 Connect With Me
 
-Starting fresh and building step by step 🚀
+<p align="left">
+<a href="https://github.com/yashcodesit">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
-## 📊 GitHub Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashcodesit&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashcodesit&layout=compact&theme=tokyonight)
+<h3 align="center">
+✨ Starting fresh and growing every day ✨
+</h3>
