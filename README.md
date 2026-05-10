@@ -29,7 +29,7 @@
 ## 📈 GitHub Journey
 
 Starting fresh and building step by step 🚀
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
