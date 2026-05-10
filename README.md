@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yashcodesit/yashcodesit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 Learning MERN Stack & DSA  
+🚀 Building projects consistently  
+🌱 Currently learning C++, JavaScript and Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📚 Current Goals
+
+- Learn MERN Stack
+- Improve DSA
+- Build Real Projects
+- Stay Consistent
+
+---
+
+## 📈 GitHub Journey
+
+Starting fresh and building step by step 🚀
